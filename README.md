@@ -1,5 +1,3 @@
-Got it! Here’s the revised README reflecting that the server is for friends only:
-
 ---
 
 # Modpack for Building Server
